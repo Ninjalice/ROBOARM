@@ -2,7 +2,7 @@
 Translating physical motion into digital reality
 
 ---
-![Texto Alternativo de la Imagen](RoboArm.jpg)
+![Texto Alternativo de la Imagen](project_image.jpg)
 
 ---
 
